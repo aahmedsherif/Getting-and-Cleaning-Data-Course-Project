@@ -31,5 +31,6 @@ From the data set in step 4, creates a second, independent tidy data set with th
 1- download the project files and extract them
 2- put the folder "UCI HAR Dataset" in the working directory of RStudio
 3- run the file "run_analysis.R"
+
    
   
